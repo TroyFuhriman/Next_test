@@ -32,8 +32,8 @@ export default function LearningCenterWelcome(props) {
               <Typography variant="body1" sx={{ textAlign: "center", py: 1 }}>
                 This resource was created to provide CellCore practitioners with
                 cutting-edge research, education and the latest science in
-                foundational medicine. All within one convenient location,
-                that's accessible 24/7 from your phone, tablet or computer.
+                foundational medicine. All within one convenient location, thats
+                accessible 24/7 from your phone, tablet or computer.
               </Typography>
             </Grid>
           </Grid>
